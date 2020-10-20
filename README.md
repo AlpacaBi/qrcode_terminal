@@ -55,4 +55,4 @@ deno run https://deno.land/x/qrcode_terminal/support/buy-me-a-cup-of-coffee.js
 ```
 
 ## 🔑License
-MIT
+[MIT](./LICENSE)
